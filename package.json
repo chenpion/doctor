@@ -1,5 +1,5 @@
 {
-  "name": "vue-prop-doc",
+  "name": "@bochen/vue-prop-doc",
   "description": "quick and easy documentation of Vue.js components",
   "version": "0.0.1",
   "author": "Chen, BoChen<code.bochen@gmail.com>",

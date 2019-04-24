@@ -1,4 +1,4 @@
-# propdoc [![Build Status](https://travis-ci.org/propellant/doctor.svg?branch=master)](https://travis-ci.org/propellant/doctor)
+# vue-prop-doc [![Build Status](https://travis-ci.org/propellant/doctor.svg?branch=master)](https://travis-ci.org/propellant/doctor)
 
 > quick and easy documentation of Vue.js components
 
