@@ -1,7 +1,7 @@
 {
   "name": "@bochen/vue-prop-doc",
   "description": "quick and easy documentation of Vue.js components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Chen, BoChen<code.bochen@gmail.com>",
   "private": false,
   "main": "lib/index.js",
