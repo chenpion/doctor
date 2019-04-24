@@ -1,20 +1,20 @@
 {
-  "name": "propdoc",
+  "name": "vue-prop-doc",
   "description": "quick and easy documentation of Vue.js components",
-  "version": "0.9.3",
-  "author": "Dave Honneffer <pearofducks@gmail.com>",
+  "version": "0.0.1",
+  "author": "Chen, BoChen<code.bochen@gmail.com>",
   "private": false,
   "main": "lib/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/propellant/doctor.git"
+    "url": "https://github.com/chenpion/vue-prop-docs.git"
   },
   "keywords": [
     "vue",
     "vuejs",
     "propellant",
-    "propdoc",
+    "vue-prop-doc",
     "documentation",
     "component"
   ],
